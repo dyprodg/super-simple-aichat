@@ -8,6 +8,5 @@ if you wanna use groq like id did in the example, you need to create a file call
 in there you need to add the following:
 ```
 VITE_GROQ_API_KEY=your_api_key
-
-you can get the key from groq cloud
 ```
+you can get the key from groq cloud
